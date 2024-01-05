@@ -157,3 +157,83 @@ header {
 .text-box-4 h1, .text-box-4 p{
     margin-bottom: 25px;
 }
+
+.allfooter{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+.left-footer {
+    font-size: 25px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    padding-left: 30px;
+}
+
+.logo-sosmed a {
+    font-size: 35px;
+    color: white;
+}
+
+.rkj {
+    display: flex;
+}
+
+.mid1-footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 120px;
+}
+
+.mid1-footer h1 {
+    font-size: 20px;
+    padding-top: 39px;
+    padding-bottom: 20px;
+}
+
+.mid1-footer p {
+    font-size: 25px;
+}
+
+.mid2-footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 120px;
+}
+
+.mid2-footer h1 {
+    font-size: 20px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.mid2-footer p {
+    font-size: 25px;
+}
+
+.right-footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 120px;
+}
+
+.right-footer h1 {
+    font-size: 20px;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+.right-footer p {
+    font-size: 20px;
+}
+
+.end-footer {
+    background-color: black;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
